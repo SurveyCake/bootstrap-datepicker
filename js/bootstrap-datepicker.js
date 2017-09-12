@@ -1722,8 +1722,8 @@
 		immediateUpdates: false,
 		title: '',
 		templates: {
-			leftArrow: '&#x00AB;',
-			rightArrow: '&#x00BB;'
+			leftArrow: '‹',
+			rightArrow: '›'
 		},
     showWeekDays: true
 	};

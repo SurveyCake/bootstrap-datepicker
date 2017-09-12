@@ -1722,10 +1722,10 @@
 		immediateUpdates: false,
 		title: '',
 		templates: {
-			leftArrow: '‹',
-			rightArrow: '›'
+			leftArrow: '&#x00AB;',
+			rightArrow: '&#x00BB;'
 		},
-    showWeekDays: true
+		showWeekDays: true
 	};
 	var locale_opts = $.fn.datepicker.locale_opts = [
 		'format',
